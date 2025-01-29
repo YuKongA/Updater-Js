@@ -7,6 +7,7 @@ string|big_version|5Li76KaB54mI5pys
 string|branch|5YiG5pSv54mI5pys
 string|cancel|5Y+W5raI
 string|changelog|5pu05paw5pel5b+X
+string|clear_search_history|5riF56m65p+l6K+i5Y6G5Y+y
 string|code_name|6K6+5aSH5Luj5Y+3
 string|confirm|56Gu5a6a
 string|copy_successful|5aSN5Yi25oiQ5Yqf
@@ -22,7 +23,7 @@ string|global|5YWo55CD6LSm5Y+3
 string|join_group|5Yqg5YWl576k57uEOg==
 string|light_mode|5rWF6Imy5qih5byP
 string|logged_in|5bey55m75b2V
-string|logging_in|5q2j5Zyo55m75b2VLi4uLg==
+string|logging_in|5q2j5Zyo55m75b2V4oCm
 string|login_desc|5q2j5Zyo5L2/55SoIHYxIOaOpeWPow==
 string|login_error|55m75b2V6aqM6K+B5aSx6LSl77yB
 string|login_expired_desc|5bu66K6u6YeN5paw55m75b2V
@@ -43,8 +44,9 @@ string|submit|5o+Q5Lqk
 string|system_default|6Lef6ZqP57O757uf
 string|system_version|57O757uf54mI5pys
 string|toast_crash_info|5pyq6L+e5o6l5Yiw5LqS6IGU572R77yB
-string|toast_ing|5q2j5Zyo5p+l6K+iLi4u
+string|toast_ing|5q2j5Zyo5p+l6K+i4oCm
 string|toast_no_info|5pyq5p+l6K+i5Yiw5L+h5oGv77yB
+string|toast_no_ultimate_link|5pyq6I635Y+W5YiwIHVsdGltYXRlIOmTvuaOpe+8gQ==
 string|toast_success_info|6K+35rGC5oiQ5Yqf77yB
 string|toast_wrong_info|6K+35rGC54mI5pys5LiN5a2Y5Zyo77yB
 string|using_v2|5q2j5Zyo5L2/55SoIHYyIOaOpeWPow==

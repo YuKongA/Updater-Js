@@ -7,6 +7,7 @@ string|big_version|VmVyc8OjbyBQcmluY2lwYWw=
 string|branch|UmFtbw==
 string|cancel|Q2FuY2VsYXI=
 string|changelog|UmVnaXN0cm8gZGUgQWx0ZXJhw6fDtWVz
+string|clear_search_history|TGltcGFyIGhpc3TDs3JpY28gZGUgUGVzcXVpc2E=
 string|code_name|Q29kZW5hbWU=
 string|confirm|Q29uZmlybWFy
 string|copy_successful|Q8OzcGlhIGJlbS1zdWNlZGlkYQ==
@@ -22,7 +23,7 @@ string|global|Q29udGEgZ2xvYmFs
 string|join_group|RW50cmFyIG5vIEdydXBvOg==
 string|light_mode|TW9kbyBjbGFybw==
 string|logged_in|TG9nYWRv
-string|logging_in|RW50cmFuZG8=
+string|logging_in|RW50cmFuZG/igKY=
 string|login_desc|VXNhbmRvIGludGVyZmFjZSB2MQ==
 string|login_error|RmFsaGEgbmEgdmVyaWZpY2HDp8OjbyBkZSBsb2dpbiE=
 string|login_expired_desc|UmVjb21lbmRhZG8gZmF6ZXIgbG9naW4gbm92YW1lbnRl
@@ -45,6 +46,7 @@ string|system_version|VmVyc8OjbyBkbyBTaXN0ZW1h
 string|toast_crash_info|U2VtIGNvbmV4w6NvIGNvbSBhIHJlZGUh
 string|toast_ing|UGVzcXVpc2FuZG/igKY=
 string|toast_no_info|U2VtIGluZm9ybWHDp8O1ZXMh
+string|toast_no_ultimate_link|TsOjbyDDqSBwb3Nzw612ZWwgb2J0ZXIgbyBsaW5rIHVsdGltYXRlIQ==
 string|toast_success_info|U29saWNpdGHDp8OjbyBiZW0tc3VjZWRpZGEh
 string|toast_wrong_info|QSB2ZXJzw6NvIHNvbGljaXRhZGEgbsOjbyBleGlzdGUh
 string|using_v2|VXNhbmRvIGludGVyZmFjZSB2Mg==
