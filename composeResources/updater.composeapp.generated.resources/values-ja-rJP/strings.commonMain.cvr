@@ -5,6 +5,7 @@ string|account|44Ki44Kr44Km44Oz44OI
 string|android_version|QW5kcm9pZCDjg5Djg7zjgrjjg6fjg7M=
 string|big_version|44Oh44K444Oj44O844OQ44O844K444On44Oz
 string|branch|44OW44Op44Oz44OB
+string|build_time|44OT44Or44OJ5pmC6ZaT
 string|cancel|44Kt44Oj44Oz44K744Or
 string|changelog|5aSJ5pu05bGl5q20
 string|clear_search_history|5qSc57Si5bGl5q2044KS5raI5Y67
@@ -20,7 +21,7 @@ string|extension_settings|5ouh5by15qmf6IO944Gu6Kit5a6a
 string|filename|44OV44Kh44Kk44Or5ZCN
 string|filesize|44OV44Kh44Kk44Or44K144Kk44K6
 string|global|44Kw44Ot44O844OQ44Or44Ki44Kr44Km44Oz44OI
-string|join_group|44Kw44Or44O844OX44Gr5Y+C5YqgOg==
+string|join_channel|44OB44Oj44Oz44ON44Or44Gr5Y+C5YqgOg==
 string|light_mode|44Op44Kk44OI44Oi44O844OJ
 string|logged_in|44Ot44Kw44Kk44Oz5riI44G/
 string|logging_in|44Ot44Kw44Kk44Oz5Lit4oCm
@@ -34,12 +35,13 @@ string|logout_confirm|44Ot44Kw44Ki44Km44OI44GX44Gm44KC44KI44KN44GX44GE44Gn44GZ44
 string|logout_successful|44Ot44Kw44Ki44Km44OI5oiQ5Yqf
 string|logout|44Ot44Kw44Ki44Km44OI
 string|no_account|44Ki44Kr44Km44Oz44OI44GM44GC44KK44G+44Gb44KT
-string|opensource_info|6JGX5L2c5qipIMKpIDIwMjQgWXVLb25nQSwgQWthbmVUYW4=
+string|opensource_info|6JGX5L2c5qipIMKpIDIwMjQtMjAyNSBZdUtvbmdB
 string|password|44OR44K544Ov44O844OJ
 string|regions_code|5Zyw5Z+f44Kz44O844OJ
 string|save_password|44OR44K544Ov44O844OJ44KS5L+d5a2Y
 string|search_history|5qSc57Si5bGl5q20
 string|security_error|44K744Kt44Ol44Oq44OG44Kj44Kt44O844Gu5Y+W5b6X44Gr5aSx5pWX44GX44G+44GX44Gf
+string|security_patch_level|44K744Kt44Ol44Oq44OG44KjIOODkeODg+ODgSDjg6zjg5njg6s=
 string|submit|6YCB5L+h
 string|system_default|44K344K544OG44Og44Gr5b6T44Gj44Gm44GP44Gg44GV44GE
 string|system_version|44K344K544OG44Og44OQ44O844K444On44Oz
