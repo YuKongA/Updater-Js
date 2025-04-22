@@ -3,6 +3,7 @@ string|about|U29icmU=
 string|account_or_password_empty|Q29udGEgb3UgU2VuaGEgdmF6aWEh
 string|account|Q29udGE=
 string|android_version|VmVyc8OjbyBkbyBBbmRyb2lk
+string|attention|QVRFTsOHw4NP
 string|big_version|VmVyc8OjbyBQcmluY2lwYWw=
 string|branch|UmFtbw==
 string|build_time|SG9yYSBkYSBjb25zdHJ1w6fDo28=
@@ -45,6 +46,7 @@ string|security_patch_level|TsOtdmVsIGRvIHBhdGNoIGRlIHNlZ3VyYW7Dp2E=
 string|submit|RW52aWFy
 string|system_default|UGFkcsOjbyBkbyBzaXN0ZW1h
 string|system_version|VmVyc8OjbyBkbyBTaXN0ZW1h
+string|tags|RXRpcXVldGFz
 string|toast_crash_info|U2VtIGNvbmV4w6NvIGNvbSBhIHJlZGUh
 string|toast_ing|UGVzcXVpc2FuZG/igKY=
 string|toast_no_info|U2VtIGluZm9ybWHDp8O1ZXMh

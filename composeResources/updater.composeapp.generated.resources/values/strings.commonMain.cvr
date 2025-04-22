@@ -4,6 +4,7 @@ string|account_or_password_empty|QWNjb3VudCBvciBQYXNzd29yZCBlbXB0eSE=
 string|account|QWNjb3VudA==
 string|android_version|QW5kcm9pZCBWZXJzaW9u
 string|app_name|VXBkYXRlcg==
+string|attention|QXR0ZW50aW9u
 string|big_version|TWFqb3IgVmVyc2lvbg==
 string|branch|QnJhbmNo
 string|build_time|QnVpbGQgVGltZQ==
@@ -46,6 +47,7 @@ string|security_patch_level|U2VjdXJpdHkgUGF0Y2ggTGV2ZWw=
 string|submit|U3VibWl0
 string|system_default|U3lzdGVtIGRlZmF1bHQ=
 string|system_version|U3lzdGVtIFZlcnNpb24=
+string|tags|VGFncw==
 string|toast_crash_info|Tm8gbmV0d29yayBjb25uZWN0aW9uIQ==
 string|toast_ing|U2VhcmNoaW5n4oCm
 string|toast_no_info|Tm8gaW5mb3JtYXRpb24h
