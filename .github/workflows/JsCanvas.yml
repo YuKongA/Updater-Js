@@ -36,13 +36,13 @@ jobs:
         uses: gradle/actions/setup-gradle@v4
       - name: Build JsCanvas Distribution
         run: |
-          ./gradlew :composeApp:jsBrowserDistribution
+          ./gradlew :js:jsBrowserDistribution
       - name: Setup Pages
         uses: actions/configure-pages@v5
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
-          path: ./composeApp/build/dist/js/productionExecutable
+          path: ./js/build/dist/js/productionExecutable
 
   deploy:
     environment:
